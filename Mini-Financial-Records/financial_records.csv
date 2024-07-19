@@ -1,0 +1,4 @@
+date,amount,description,type,cumulative_income,cumulative_expense,running_balance
+2024-07-19,3438,Saveing,income,3438,0,3438
+2024-07-19,65,Lunch,expense,3438,65,3373
+2024-07-19,65,Diner,expense,3438,130,3308
