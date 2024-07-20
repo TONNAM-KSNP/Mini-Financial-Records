@@ -1,4 +1,6 @@
 date,time,amount,description,type,cumulative_income,cumulative_expense,running_balance
-2024-07-19,15:45:38,3438,Saveing,income,3438,0,3438
-2024-07-19,15:45:38,65,Lunch,expense,3438,65,3373
-2024-07-19,15:45:38,65,Diner,expense,3438,130,3308
+2024-07-19,05:53:31,3438.0,Saveing,income,3438.0,0,3438.0
+2024-07-19,05:53:31,65.0,Lunch,expense,3438.0,65.0,3373.0
+2024-07-19,05:53:31,65.0,Diner,expense,3438.0,130.0,3308.0
+2024-07-20,08:30:36,106.0,Lunch,expense,3438.0,236.0,3202.0
+2024-07-20,15:53:27,2000,Friend Rent,expense,3438.0,2236.0,1202.0
